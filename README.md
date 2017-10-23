@@ -12,4 +12,5 @@ char *machine = malloc(size);
 sysctlbyname("hw.machine", machine, &size, NULL, 0);
 
 NSString *platform = [NSString stringWithCString:machine encoding:NSUTF8StringEncoding];
-free(machine);```
+free(machine);
+```
