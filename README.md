@@ -1,16 +1,46 @@
 # BDLocalizedDevicesModels
-Apple devices model names localized.
+Apple product names localized.
 
-You can use strings files to match the device platform code to the device model.
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-## Platform code
-You can get the platform code with:
+
+## Installation
+### Carthage
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks.
+
+You can install Carthage with [Homebrew](http://brew.sh/) using the following command:
+
+```bash
+$ brew update
+$ brew install carthage
+```
+
+To integrate BDLocalizedDevicesModels into your Xcode project using Carthage, specify it in your `Cartfile`:
+
+```ogdl
+github "bixcorp/BDLocalizedDevicesModels"
+```
+## Usage
+Note: To use a localization included in the framework bundle, the app using the framework must support this localization.
+### Localized product name
+Swift
+```swift
+UIDevice.currentDevice.localizedProductName
+```
+
+Objective-C
 ```objc
-size_t size;
-sysctlbyname("hw.machine", NULL, &size, NULL, 0);
-char *machine = malloc(size);
-sysctlbyname("hw.machine", machine, &size, NULL, 0);
+[UIDevice currentDevice].localizedProductName;
+```
 
-NSString *platform = [NSString stringWithCString:machine encoding:NSUTF8StringEncoding];
-free(machine);
+### English product name
+Swift
+```swift
+UIDevice.currentDevice.productName
+```
+
+Objective-C
+```objc
+[UIDevice currentDevice].productName;
 ```

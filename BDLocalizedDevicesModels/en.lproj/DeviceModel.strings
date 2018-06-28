@@ -5,6 +5,8 @@
   Created by Benoit Deldicque on 02/10/2017.
   Copyright © 2017 Benoit Deldicque. All rights reserved.
 */
+
+// MARK: iPhone models
 "iPhone1,1" = "iPhone 2G";
 "iPhone1,2" = "iPhone 3G";
 "iPhone2,1" = "iPhone 3GS";
@@ -35,14 +37,16 @@
 "iPhone10,6" = "iPhone X";
 
 
+// MARK: iPod Touch models
 "iPod1,1" = "iPod Touch";
-"iPod2,1" = "iPod Touch (2ª generación)";
-"iPod3,1" = "iPod Touch (3ª generación)";
-"iPod4,1" = "iPod Touch (4ª generación)";
-"iPod5,1" = "iPod Touch (5ª generación)";
-"iPod7,1" = "iPod Touch (6ª generación)";
+"iPod2,1" = "iPod Touch (2nd generation)";
+"iPod3,1" = "iPod Touch (3rd generation)";
+"iPod4,1" = "iPod Touch (4th generation)";
+"iPod5,1" = "iPod Touch (5th generation)";
+"iPod7,1" = "iPod Touch (6th generation)";
 
 
+// MARK: iPad models
 "iPad1,1" = "iPad";
 "iPad1,2" = "iPad";
 "iPad2,1" = "iPad 2";
@@ -52,12 +56,12 @@
 "iPad2,5" = "iPad mini";
 "iPad2,6" = "iPad mini";
 "iPad2,7" = "iPad mini";
-"iPad3,1" = "iPad (3ª generación)";
-"iPad3,2" = "iPad (3ª generación)";
-"iPad3,3" = "iPad (3ª generación)";
-"iPad3,4" = "iPad (4ª generación)";
-"iPad3,5" = "iPad (4ª generación)";
-"iPad3,6" = "iPad (4ª generación)";
+"iPad3,1" = "iPad (3rd generation)";
+"iPad3,2" = "iPad (3rd generation)";
+"iPad3,3" = "iPad (3rd generation)";
+"iPad3,4" = "iPad (4th generation)";
+"iPad3,5" = "iPad (4th generation)";
+"iPad3,6" = "iPad (4th generation)";
 "iPad4,1" = "iPad Air";
 "iPad4,2" = "iPad Air";
 "iPad4,3" = "iPad Air";
@@ -71,30 +75,32 @@
 "iPad5,2" = "iPad mini 4";
 "iPad5,3" = "iPad Air 2";
 "iPad5,4" = "iPad Air 2";
-"iPad6,3" = "iPad Pro (9,7 pulgadas)";
-"iPad6,4" = "iPad Pro (9,7 pulgadas)";
-"iPad6,7" = "iPad Pro (12,9 pulgadas)";
-"iPad6,8" = "iPad Pro (12,9 pulgadas)";
-"iPad6,11" = "iPad (5ª generación)";
-"iPad6,12" = "iPad (5ª generación)";
-"iPad7,1" = "iPad Pro 12,9 pulgadas (2ª generación)";
-"iPad7,2" = "iPad Pro 12,9 pulgadas (2ª generación)";
-"iPad7,3" = "iPad Pro (10,5 pulgadas)";
-"iPad7,4" = "iPad Pro (10,5 pulgadas)";
-"iPad7,5" = "iPad (6ª generación)";
-"iPad7,6" = "iPad (6ª generación)";
+"iPad6,3" = "iPad Pro (9.7-inch)";
+"iPad6,4" = "iPad Pro (9.7-inch)";
+"iPad6,7" = "iPad Pro (12.9-inch)";
+"iPad6,8" = "iPad Pro (12.9-inch)";
+"iPad6,11" = "iPad (5th generation)";
+"iPad6,12" = "iPad (5th generation)";
+"iPad7,1" = "iPad Pro 12.9-inch (2nd generation)";
+"iPad7,2" = "iPad Pro 12.9-inch (2nd generation)";
+"iPad7,3" = "iPad Pro (10.5-inch)";
+"iPad7,4" = "iPad Pro (10.5-inch)";
+"iPad7,5" = "iPad (6th generation)";
+"iPad7,6" = "iPad (6th generation)";
 
 
-"AppleTV2,1" = "Apple TV (1ª generación)";
-"AppleTV2,1" = "Apple TV (2ª generación)";
-"AppleTV3,1" = "Apple TV (3ª generación)";
-"AppleTV3,2" = "Apple TV (3ª generación)";
-"AppleTV5,3" = "Apple TV (4ª generación)";
+// MARK: Apple TV models
+"AppleTV1,1" = "Apple TV (1st generation)";
+"AppleTV2,1" = "Apple TV (2nd generation)";
+"AppleTV3,1" = "Apple TV (3rd generation)";
+"AppleTV3,2" = "Apple TV (3rd generation)";
+"AppleTV5,3" = "Apple TV (4th generation)";
 "AppleTV6,2" = "Apple TV 4K";
 
 
-"Watch1,1" = "Apple Watch (1ª generación)";
-"Watch1,2" = "Apple Watch (2ª generación)";
+// MARK: Apple Watch models
+"Watch1,1" = "Apple Watch (1st generation)";
+"Watch1,2" = "Apple Watch (2nd generation)";
 "Watch2,3" = "Apple Watch Series 2";
 "Watch2,4" = "Apple Watch Series 2";
 "Watch2,6" = "Apple Watch Series 1";
@@ -105,5 +111,6 @@
 "Watch3,4" = "Apple Watch Series 3";
 
 
-"i386" = "Simulador";
-"x86_64" = "Simulador";
+// MARK: Developer models
+"i386" = "Simulator";
+"x86_64" = "Simulator";
