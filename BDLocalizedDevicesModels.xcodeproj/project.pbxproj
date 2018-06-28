@@ -33,6 +33,7 @@
 		143D382820E4407400E87EED /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/DeviceModel.strings; sourceTree = "<group>"; };
 		143D382920E4407700E87EED /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/DeviceModel.strings; sourceTree = "<group>"; };
 		143D382A20E4407900E87EED /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/DeviceModel.strings; sourceTree = "<group>"; };
+		1447509620E57F2100E874A8 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		1471C99720E2CB8600BFE5C0 /* UIDevice+BDLocalizedDevicesModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+BDLocalizedDevicesModels.swift"; sourceTree = "<group>"; };
 		1471C99920E2CBF400BFE5C0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -51,6 +52,7 @@
 		143A1D8420E2CAED0046C8C7 = {
 			isa = PBXGroup;
 			children = (
+				1447509620E57F2100E874A8 /* CHANGELOG.md */,
 				1471C99920E2CBF400BFE5C0 /* README.md */,
 				143A1D9020E2CAED0046C8C7 /* BDLocalizedDevicesModels */,
 				143A1D8F20E2CAED0046C8C7 /* Products */,
