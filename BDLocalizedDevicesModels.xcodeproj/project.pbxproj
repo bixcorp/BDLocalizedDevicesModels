@@ -36,6 +36,7 @@
 		1447509620E57F2100E874A8 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		1471C99720E2CB8600BFE5C0 /* UIDevice+BDLocalizedDevicesModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+BDLocalizedDevicesModels.swift"; sourceTree = "<group>"; };
 		1471C99920E2CBF400BFE5C0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		14E031C120E6DDBC001B0FF8 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/DeviceModel.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +145,7 @@
 				es,
 				fr,
 				it,
+				pt,
 			);
 			mainGroup = 143A1D8420E2CAED0046C8C7;
 			productRefGroup = 143A1D8F20E2CAED0046C8C7 /* Products */;
@@ -181,11 +183,12 @@
 		143D382420E4406900E87EED /* DeviceModel.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				143D382520E4406900E87EED /* en */,
 				143D382720E4407200E87EED /* de */,
+				143D382520E4406900E87EED /* en */,
 				143D382820E4407400E87EED /* es */,
 				143D382920E4407700E87EED /* fr */,
 				143D382A20E4407900E87EED /* it */,
+				14E031C120E6DDBC001B0FF8 /* pt */,
 			);
 			name = DeviceModel.strings;
 			sourceTree = "<group>";
@@ -227,7 +230,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1.0;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -290,7 +293,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1.0;
+				CURRENT_PROJECT_VERSION = 1.1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
