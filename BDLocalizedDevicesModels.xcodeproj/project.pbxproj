@@ -37,6 +37,8 @@
 		1471C99720E2CB8600BFE5C0 /* UIDevice+BDLocalizedDevicesModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+BDLocalizedDevicesModels.swift"; sourceTree = "<group>"; };
 		1471C99920E2CBF400BFE5C0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		14E031C120E6DDBC001B0FF8 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/DeviceModel.strings; sourceTree = "<group>"; };
+		14FC176A2112460D0018B304 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/DeviceModel.strings; sourceTree = "<group>"; };
+		14FC176B211246E10018B304 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DeviceModel.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,8 @@
 				fr,
 				it,
 				pt,
+				ru,
+				"zh-Hans",
 			);
 			mainGroup = 143A1D8420E2CAED0046C8C7;
 			productRefGroup = 143A1D8F20E2CAED0046C8C7 /* Products */;
@@ -189,6 +193,8 @@
 				143D382920E4407700E87EED /* fr */,
 				143D382A20E4407900E87EED /* it */,
 				14E031C120E6DDBC001B0FF8 /* pt */,
+				14FC176A2112460D0018B304 /* ru */,
+				14FC176B211246E10018B304 /* zh-Hans */,
 			);
 			name = DeviceModel.strings;
 			sourceTree = "<group>";
