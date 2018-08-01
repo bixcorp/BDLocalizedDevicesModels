@@ -37,8 +37,8 @@
 "iPhone10,6" = "iPhone X";
 
 
-// MARK: iPod Touch models
-"iPod1,1" = "iPod Touch";
+// MARK: iPod touch models
+"iPod1,1" = "iPod touch";
 "iPod2,1" = "iPod touch (2-го поколения)";
 "iPod3,1" = "iPod touch (3-го поколения)";
 "iPod4,1" = "iPod touch (4-го поколения)";

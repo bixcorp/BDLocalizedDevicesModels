@@ -37,13 +37,13 @@
 "iPhone10,6" = "iPhone X";
 
 
-// MARK: iPod Touch models
-"iPod1,1" = "iPod Touch";
-"iPod2,1" = "iPod Touch（第 2 代）";
-"iPod3,1" = "iPod Touch（第 3 代）";
-"iPod4,1" = "iPod Touch（第 4 代）";
-"iPod5,1" = "iPod Touch（第 5 代）";
-"iPod7,1" = "iPod Touch（第 6 代）";
+// MARK: iPod touch models
+"iPod1,1" = "iPod touch";
+"iPod2,1" = "iPod touch（第 2 代）";
+"iPod3,1" = "iPod touch（第 3 代）";
+"iPod4,1" = "iPod touch（第 4 代）";
+"iPod5,1" = "iPod touch（第 5 代）";
+"iPod7,1" = "iPod touch（第 6 代）";
 
 
 // MARK: iPad models

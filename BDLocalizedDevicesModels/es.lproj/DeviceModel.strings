@@ -37,13 +37,13 @@
 "iPhone10,6" = "iPhone X";
 
 
-// MARK: iPod Touch models
-"iPod1,1" = "iPod Touch";
-"iPod2,1" = "iPod Touch (2ª generación)";
-"iPod3,1" = "iPod Touch (3ª generación)";
-"iPod4,1" = "iPod Touch (4ª generación)";
-"iPod5,1" = "iPod Touch (5ª generación)";
-"iPod7,1" = "iPod Touch (6ª generación)";
+// MARK: iPod touch models
+"iPod1,1" = "iPod touch";
+"iPod2,1" = "iPod touch (2ª generación)";
+"iPod3,1" = "iPod touch (3ª generación)";
+"iPod4,1" = "iPod touch (4ª generación)";
+"iPod5,1" = "iPod touch (5ª generación)";
+"iPod7,1" = "iPod touch (6ª generación)";
 
 
 // MARK: iPad models
