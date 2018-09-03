@@ -26,7 +26,7 @@ Note: To use a localization included in the framework bundle, the app using the 
 ### Localized product name
 Swift
 ```swift
-UIDevice.currentDevice.localizedProductName
+UIDevice.current.localizedProductName
 ```
 
 Objective-C
@@ -37,7 +37,7 @@ Objective-C
 ### English product name
 Swift
 ```swift
-UIDevice.currentDevice.productName
+UIDevice.current.productName
 ```
 
 Objective-C
