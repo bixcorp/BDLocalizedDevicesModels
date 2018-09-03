@@ -1,3 +1,17 @@
+## [1.3.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.3.0)
+Released on 2018-09-03.
+
+#### Added
+- Sample code app is now available.
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+- Simulator displays its real device name.
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+#### Updated
+- BDLocalizedDevicesModels deployment target is iOS 9.0.
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.2.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.2.0)
 Released on 2018-08-01.
 
