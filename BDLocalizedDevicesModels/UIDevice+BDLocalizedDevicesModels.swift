@@ -29,12 +29,17 @@ extension UIDevice {
     // MARK: -
     private var deviceTypeIdentifier: String {
         get {
-            var size: Int = 0
-            sysctlbyname("hw.machine", nil, &size, nil, 0)
-            var machine = [CChar](repeating: 0, count: size)
-            sysctlbyname("hw.machine", &machine, &size, nil, 0)
+            // Check if device is a simulator to get the right machine identifier.
+            if let machine = ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] {
+                return machine
+            } else {
+                var size: Int = 0
+                sysctlbyname("hw.machine", nil, &size, nil, 0)
+                var machine = [CChar](repeating: 0, count: size)
+                sysctlbyname("hw.machine", &machine, &size, nil, 0)
 
-            return String(cString: machine)
+                return String(cString: machine)
+            }
         }
     }
 
