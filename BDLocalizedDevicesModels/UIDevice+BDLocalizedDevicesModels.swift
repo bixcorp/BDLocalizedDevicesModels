@@ -8,7 +8,9 @@
 
 import Foundation
 
-extension UIDevice {
+public typealias BDDevice = UIDevice
+
+public extension BDDevice {
     /// The product name of the device.
     @objc public var productName: String {
         get {
