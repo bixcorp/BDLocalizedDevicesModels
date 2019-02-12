@@ -15,9 +15,15 @@ public extension BDDevice {
     @objc public var productName: String {
         get {
             // Retrieve english bundle.
-            let enBundle = Bundle(path: (self.frameworkBundle.path(forResource: "en", ofType: "lproj"))!)
+            guard let englishPath = self.frameworkBundle.path(forResource: "en", ofType: "lproj") else {
+                return self.localizedProductName // Fallback on localized model
+            }
 
-            return NSLocalizedString(self.deviceTypeIdentifier, tableName: "DeviceModel", bundle: enBundle!, value: self.deviceTypeIdentifier, comment: "")
+            guard let englishBundle = Bundle(path: englishPath) else {
+                return self.localizedProductName // Fallback on localized model
+            }
+
+            return NSLocalizedString(self.deviceTypeIdentifier, tableName: "DeviceModel", bundle: englishBundle, value: self.deviceTypeIdentifier, comment: "")
         }
     }
 
