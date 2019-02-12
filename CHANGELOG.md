@@ -1,3 +1,21 @@
+## [1.6.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.6.0)
+Released on 2019-02-12.
+
+#### Added
+- Support for tvOS
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+#### Updated
+- BDLocalizedDevicesModels Swift version is Swift 4.0.
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+## [1.5.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.5.1)
+Released on 2018-11-19.
+
+#### Fixed
+- Unrecognised selector bug.
+    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.5.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.5.0)
 Released on 2018-10-30.
 
