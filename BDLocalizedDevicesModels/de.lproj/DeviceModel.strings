@@ -99,6 +99,10 @@
 "iPad8,6" = "iPad Pro (12,9\", 3. Generation)";
 "iPad8,7" = "iPad Pro (12,9\", 3. Generation)";
 "iPad8,8" = "iPad Pro (12,9\", 3. Generation)";
+"iPad11,1" = "iPad mini (5. Generation)";
+"iPad11,2" = "iPad mini (5. Generation)";
+"iPad11,3" = "iPad Air (3. Generation)";
+"iPad11,4" = "iPad Air (3. Generation)";
 
 
 // MARK: Apple TV models
