@@ -1,9 +1,16 @@
+## [1.7.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+Released on 2019-06-26.
+
+#### Added
+- New iPod device.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.7.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.0)
 Released on 2019-03-26.
 
 #### Added
 - New iPad devices.
-    - Added by [Benoit Deldicque](https://github.com/bixcorp).
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
 
 #### Updated
 - Apple TV.
