@@ -48,6 +48,7 @@
 "iPod4,1" = "iPod touch (4e génération)";
 "iPod5,1" = "iPod touch (5e génération)";
 "iPod7,1" = "iPod touch (6e génération)";
+"iPod9,1" = "iPod touch (7e génération)";
 
 
 // MARK: iPad models

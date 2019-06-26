@@ -48,6 +48,7 @@
 "iPod4,1" = "iPod touch (4-го поколения)";
 "iPod5,1" = "iPod touch (5-го поколения)";
 "iPod7,1" = "iPod touch (6-го поколения)";
+"iPod9,1" = "iPod touch (7-го поколения)";
 
 
 // MARK: iPad models
