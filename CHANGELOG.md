@@ -1,3 +1,11 @@
+## [1.8.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+Released on 2019-09-11.
+
+#### Added
+- New iPhone 11 models.
+- New Apple Watch Series 5 models.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.7.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
 Released on 2019-06-26.
 
@@ -48,7 +56,7 @@ Released on 2018-09-13.
 #### Added
 - New iPhone and Apple Watch devices.
     - Added by [Benoit Deldicque](https://github.com/bixcorp).
-    
+
 ## [1.3.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.3.0)
 Released on 2018-09-03.
 
