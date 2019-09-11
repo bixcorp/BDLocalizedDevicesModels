@@ -39,6 +39,9 @@
 "iPhone11,4" = "iPhone XS Max";
 "iPhone11,6" = "iPhone XS Max";
 "iPhone11,8" = "iPhone XR";
+"iPhone12,1" = "iPhone 11";
+"iPhone12,3" = "iPhone 11 Pro";
+"iPhone12,5" = "iPhone 11 Pro Max";
 
 
 // MARK: iPod touch models
@@ -130,6 +133,10 @@
 "Watch4,2" = "Apple Watch Series 4";
 "Watch4,3" = "Apple Watch Series 4";
 "Watch4,4" = "Apple Watch Series 4";
+"Watch5,1" = "Apple Watch Series 5";
+"Watch5,2" = "Apple Watch Series 5";
+"Watch5,3" = "Apple Watch Series 5";
+"Watch5,4" = "Apple Watch Series 5";
 
 
 // MARK: Developer models
