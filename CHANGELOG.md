@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+Released on 2019-10-07.
+
+#### Added
+- New iPad (7th generation) models.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.8.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
 Released on 2019-09-11.
 
