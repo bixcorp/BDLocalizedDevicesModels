@@ -1,18 +1,25 @@
-## [1.9.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+## [1.9.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.9.1)
+Released on 2020-04-17.
+
+#### Added
+- New iPhone SE model.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+## [1.9.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.9.0)
 Released on 2020-03-24.
 
 #### Added
 - New iPad Pro models.
 - Added by [Benoit Deldicque](https://github.com/bixcorp).
 
-## [1.8.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+## [1.8.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.8.1)
 Released on 2019-10-07.
 
 #### Added
 - New iPad (7th generation) models.
 - Added by [Benoit Deldicque](https://github.com/bixcorp).
 
-## [1.8.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.7.1)
+## [1.8.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.8.0)
 Released on 2019-09-11.
 
 #### Added
