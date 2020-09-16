@@ -1,3 +1,11 @@
+## [1.10.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.10.0)
+Released on 2020-09-16.
+
+#### Added
+- New iPad models.
+- New Apple Watch models.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
 ## [1.9.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.9.1)
 Released on 2020-04-17.
 
