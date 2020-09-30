@@ -1,16 +1,15 @@
 //
-//  UIDevice+BDLocalizedDevicesModels.swift
+//  LocalizedModel.swift
 //  BDLocalizedDevicesModels
 //
 //  Created by Benoit Deldicque on 26/06/2018.
 //  Copyright © 2018 Benoit Deldicque. All rights reserved.
 //
 
+#if !os(macOS)
 import UIKit
 
-public typealias BDDevice = UIDevice
-
-public extension BDDevice {
+extension UIDevice {
     /// The product name of the device.
     @objc public var productName: String {
         // Retrieve english bundle.
@@ -48,6 +47,7 @@ public extension BDDevice {
     }
 
     private var frameworkBundle: Bundle {
-        return Bundle(identifier: "com.bddq.BDLocalizedDevicesModels")!
+        return Bundle.module
     }
 }
+#endif

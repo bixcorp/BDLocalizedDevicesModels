@@ -1,2 +1,13 @@
-Carthage
-xcuserdata
+# Xcode
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+xcuserdata/
+*.xcuserdatad/
+.swiftpm
+
+## Other
+*.xcuserstate
+
+.DS_Store

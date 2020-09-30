@@ -7,16 +7,18 @@
 //
 
 import UIKit
-import BDLocalizedDevicesModels
+import LocalizedDeviceModel
 
 class ViewController: UIViewController {
 
     @IBOutlet weak var label: UILabel!
+    @IBOutlet weak var label2: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         label.text = UIDevice.current.localizedProductName
+        label2.text = UIDevice.current.productName
     }
 
     override func didReceiveMemoryWarning() {
