@@ -23,6 +23,7 @@ let package = Package(
         .target(
             name: "LocalizedDeviceModel",
             dependencies: [],
+            path: "Sources",
             exclude: ["SampleApp"]),
     ]
 )
