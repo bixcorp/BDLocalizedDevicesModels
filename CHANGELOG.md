@@ -1,3 +1,12 @@
+## [2.0.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.0.0)
+Released on 2020-09-30.
+
+#### Added
+- Swift Package Manager support.
+- Added by [Benoit Deldicque](https://github.com/bixcorp).
+
+Note: Carthage is not supported anymore.
+
 ## [1.10.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/1.10.0)
 Released on 2020-09-16.
 
