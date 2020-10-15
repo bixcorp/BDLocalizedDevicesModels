@@ -1,7 +1,8 @@
 ## [2.0.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.0.0)
-Released on 2020-09-30.
+Released on 2020-10-15.
 
 #### Added
+- New iPhone 11 models.
 - Swift Package Manager support.
 - Added by [Benoit Deldicque](https://github.com/bixcorp).
 
