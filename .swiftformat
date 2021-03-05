@@ -1,0 +1,2 @@
+--disable wrapMultilineStatementBraces,trailingCommas
+--ifdef no-indent

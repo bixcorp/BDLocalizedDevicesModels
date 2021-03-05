@@ -6,12 +6,13 @@ import PackageDescription
 let package = Package(
     name: "LocalizedDeviceModel",
     defaultLocalization: "en",
-    platforms: [ .iOS(.v9), .watchOS(.v5), .tvOS(.v9) ],
+    platforms: [.iOS(.v9), .watchOS(.v5), .tvOS(.v9)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "LocalizedDeviceModel",
-            targets: ["LocalizedDeviceModel"]),
+            targets: ["LocalizedDeviceModel"]
+        ),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -24,6 +25,7 @@ let package = Package(
             name: "LocalizedDeviceModel",
             dependencies: [],
             path: "Sources",
-            exclude: ["SampleApp"]),
+            exclude: ["SampleApp"]
+        ),
     ]
 )

@@ -6,13 +6,12 @@
 //  Copyright © 2018 Benoit Deldicque. All rights reserved.
 //
 
-import UIKit
 import LocalizedDeviceModel
+import UIKit
 
 class ViewController: UIViewController {
-
-    @IBOutlet weak var label: UILabel!
-    @IBOutlet weak var label2: UILabel!
+    @IBOutlet var label: UILabel!
+    @IBOutlet var label2: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()

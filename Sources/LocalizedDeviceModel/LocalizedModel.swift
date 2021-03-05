@@ -9,29 +9,30 @@
 #if !os(macOS)
 import UIKit
 
-extension UIDevice {
+public extension UIDevice {
     /// The product name of the device.
-    @objc public var productName: String {
+    @objc var productName: String {
         // Retrieve english bundle.
-        guard let englishPath = self.frameworkBundle.path(forResource: "en", ofType: "lproj") else {
-            return self.localizedProductName // Fallback on localized model
+        guard let englishPath = Bundle.module.path(forResource: "en", ofType: "lproj") else {
+            return localizedProductName // Fallback on localized model
         }
 
         guard let englishBundle = Bundle(path: englishPath) else {
-            return self.localizedProductName // Fallback on localized model
+            return localizedProductName // Fallback on localized model
         }
 
-        return NSLocalizedString(self.deviceTypeIdentifier, tableName: "DeviceModel",
-                                 bundle: englishBundle, value: self.deviceTypeIdentifier, comment: "")
+        return NSLocalizedString(deviceTypeIdentifier, tableName: "DeviceModel",
+                                 bundle: englishBundle, value: deviceTypeIdentifier, comment: "")
     }
 
     /// The product name of the device as a localized string.
-    @objc public var localizedProductName: String {
-        return NSLocalizedString(self.deviceTypeIdentifier, tableName: "DeviceModel",
-                                 bundle: self.frameworkBundle, value: self.deviceTypeIdentifier, comment: "")
+    @objc var localizedProductName: String {
+        NSLocalizedString(deviceTypeIdentifier, tableName: "DeviceModel",
+                          bundle: Bundle.module, value: deviceTypeIdentifier, comment: "")
     }
 
     // MARK: -
+
     private var deviceTypeIdentifier: String {
         // Check if device is a simulator to get the right machine identifier.
         if let machine = ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] {
@@ -44,10 +45,6 @@ extension UIDevice {
 
             return String(cString: machine)
         }
-    }
-
-    private var frameworkBundle: Bundle {
-        return Bundle.module
     }
 }
 #endif
