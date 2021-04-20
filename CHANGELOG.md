@@ -1,3 +1,13 @@
+## [2.1.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.0)
+Released on 2021-04-20.
+
+#### Added
+- New iPad Pro models.
+- New Apple TV 4K model.
+
+#### Fixed
+- Some typo errors on zh-Hans localization.
+
 ## [2.0.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.0.1)
 Released on 2021-03-05.
 
