@@ -39,6 +39,7 @@ public extension UIDevice {
 
 #endif
 
+#if !os(macOS)
 var deviceTypeIdentifier: String {
     // Check if device is a simulator to get the right machine identifier.
     if let machine = ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] {
@@ -71,3 +72,4 @@ var localizedProductName: String {
     NSLocalizedString(deviceTypeIdentifier, tableName: "DeviceModel",
                       bundle: Bundle.module, value: deviceTypeIdentifier, comment: "")
 }
+#endif
