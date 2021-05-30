@@ -1,3 +1,12 @@
+## [2.1.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.1)
+Released on 2021-05-30.
+
+#### Added
+- watchOS WKInterfaceDevice extension. 
+
+#### Improvements
+- Sample project can run standalone watchOS app.
+
 ## [2.1.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.0)
 Released on 2021-04-20.
 

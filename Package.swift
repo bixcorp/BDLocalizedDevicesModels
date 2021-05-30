@@ -25,7 +25,9 @@ let package = Package(
             name: "LocalizedDeviceModel",
             dependencies: [],
             path: "Sources",
-            exclude: ["SampleApp"]
+            exclude: ["SampleApp",
+                      "SampleWatchApp WatchKit App",
+                      "SampleWatchApp WatchKit Extension"]
         ),
     ]
 )
