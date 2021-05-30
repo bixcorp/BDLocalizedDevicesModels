@@ -1,3 +1,9 @@
+## [2.1.2](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.2)
+Released on 2021-05-30.
+
+#### Improvements
+- Project structure is now ready for Swift Package Index builds.
+
 ## [2.1.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.1)
 Released on 2021-05-30.
 

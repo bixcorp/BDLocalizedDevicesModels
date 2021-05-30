@@ -2,7 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SampleApp.xcodeproj">
+      location = "group:LocalizedDeviceModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Samples/SampleApp.xcodeproj">
    </FileRef>
    <FileRef
       location = "container:">

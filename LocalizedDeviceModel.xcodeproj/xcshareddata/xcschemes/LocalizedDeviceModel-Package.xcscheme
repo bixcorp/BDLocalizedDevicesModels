@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "LocalizedDeviceModel"
-               BuildableName = "LocalizedDeviceModel"
+               BlueprintIdentifier = "147B3016266417B2007AAEAF"
+               BuildableName = "libLocalizedDeviceModel.a"
                BlueprintName = "LocalizedDeviceModel"
-               ReferencedContainer = "container:">
+               ReferencedContainer = "container:LocalizedDeviceModel.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,10 +50,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "LocalizedDeviceModel"
-            BuildableName = "LocalizedDeviceModel"
+            BlueprintIdentifier = "147B3016266417B2007AAEAF"
+            BuildableName = "libLocalizedDeviceModel.a"
             BlueprintName = "LocalizedDeviceModel"
-            ReferencedContainer = "container:">
+            ReferencedContainer = "container:LocalizedDeviceModel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
