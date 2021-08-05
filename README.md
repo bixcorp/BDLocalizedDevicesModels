@@ -1,11 +1,7 @@
 # LocalizedDeviceModel
 Apple product names localized.
 
-![Xcode 11.0+](https://img.shields.io/badge/Xcode-11.0%2B-blue.svg)
-![iOS 9.0+](https://img.shields.io/badge/iOS-9.0%2B-blue.svg)
-![tvOS 9.0+](https://img.shields.io/badge/tvOS-9.0%2B-blue.svg)
-![watchOS 5.0+](https://img.shields.io/badge/watchOS-5.0%2B-blue.svg)
-![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbixcorp%2FBDLocalizedDevicesModels%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/bixcorp/BDLocalizedDevicesModels) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fbixcorp%2FBDLocalizedDevicesModels%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/bixcorp/BDLocalizedDevicesModels)
 
 
 ## Usage
