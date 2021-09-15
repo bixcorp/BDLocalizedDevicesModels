@@ -124,6 +124,8 @@
 "iPad11,4" = "iPad Air (3ª generación)";
 "iPad11,6" = "iPad (8ª generación)";
 "iPad11,7" = "iPad (8ª generación)";
+"iPad12,1" = "iPad (9ª generación)";
+"iPad12,2" = "iPad (9ª generación)";
 "iPad13,1" = "iPad Air (4ª generación)";
 "iPad13,2" = "iPad Air (4ª generación)";
 "iPad13,4" = "iPad Pro 11 pulgadas (3ª generación)";
@@ -134,6 +136,8 @@
 "iPad13,9" = "iPad Pro 12,9 pulgadas (5ª generación)";
 "iPad13,10" = "iPad Pro 12,9 pulgadas (5ª generación)";
 "iPad13,11" = "iPad Pro 12,9 pulgadas (5ª generación)";
+"iPad14,1" = "iPad mini (6ª generación)";
+"iPad14,2" = "iPad mini (6ª generación)";
 
 
 // MARK: Apple TV models
