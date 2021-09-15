@@ -1,3 +1,11 @@
+## [2.2.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.2.0)
+Released on 2021-09-15.
+
+#### Added
+- New iPad models.
+- New iPhone 13 models.
+- New Apple Watch models.
+
 ## [2.1.2](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.2)
 Released on 2021-05-30.
 
