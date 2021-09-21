@@ -22,8 +22,8 @@ let package = Package(
             name: "LocalizedDeviceModel",
             dependencies: [],
             path: "Sources",
-            exclude: ["Samples",
-                      "BundleFinder.swift"]
-        ),
+            exclude: ["../Samples",
+                      "../BundleFinder.swift"]
+        )
     ]
 )
