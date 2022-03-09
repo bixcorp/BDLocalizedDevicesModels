@@ -1,3 +1,10 @@
+## [2.3.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.2.0)
+Released on 2022-03-09.
+
+#### Added
+- New iPad Air models.
+- New iPhone SE model.
+
 ## [2.2.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/2.1.2)
 Released on 2021-09-21.
 
