@@ -24,11 +24,11 @@ var deviceTypeIdentifier: String {
 var productName: String {
     // Retrieve english bundle.
     guard let englishPath = Bundle.module.path(forResource: "en", ofType: "lproj") else {
-        return localizedProductName // Fallback on localized model
+        return deviceTypeIdentifier // Fallback on device identifier.
     }
 
     guard let englishBundle = Bundle(path: englishPath) else {
-        return localizedProductName // Fallback on localized model
+        return deviceTypeIdentifier // Fallback on device identifier.
     }
 
     return NSLocalizedString(deviceTypeIdentifier, tableName: "DeviceModel",
