@@ -70,6 +70,7 @@
 
 /* Begin PBXFileReference section */
 		14005CB625237524006A911E /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		140FC6542825B93800A5F06B /* BDLocalizedDevicesModels */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = BDLocalizedDevicesModels; path = ..; sourceTree = "<group>"; };
 		1479F39D26636B29003EC36B /* SampleWatchApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleWatchApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1479F3A026636B29003EC36B /* SampleWatchApp WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SampleWatchApp WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1479F3A626636B29003EC36B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
@@ -118,6 +119,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		140FC6532825B93800A5F06B /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				140FC6542825B93800A5F06B /* BDLocalizedDevicesModels */,
+			);
+			name = Packages;
+			sourceTree = "<group>";
+		};
 		1479F3A426636B29003EC36B /* SampleWatchApp WatchKit App */ = {
 			isa = PBXGroup;
 			children = (
@@ -155,6 +164,7 @@
 				14F7EE7C2523712B005D7C21 /* SampleApp */,
 				1479F3A426636B29003EC36B /* SampleWatchApp WatchKit App */,
 				1479F3B326636B2B003EC36B /* SampleWatchApp WatchKit Extension */,
+				140FC6532825B93800A5F06B /* Packages */,
 				14F7EE7B2523712B005D7C21 /* Products */,
 				14F7EEDA25237432005D7C21 /* Frameworks */,
 			);
@@ -276,7 +286,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1250;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
 					1479F39C26636B29003EC36B = {
 						CreatedOnToolsVersion = 12.5;
@@ -594,14 +604,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TVOS_DEPLOYMENT_TARGET = 9.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 				WATCHOS_DEPLOYMENT_TARGET = 6.0;
 			};
 			name = Debug;
@@ -652,13 +662,13 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				TVOS_DEPLOYMENT_TARGET = 9.0;
+				TVOS_DEPLOYMENT_TARGET = 12.0;
 				VALIDATE_PRODUCT = YES;
 				WATCHOS_DEPLOYMENT_TARGET = 6.0;
 			};
