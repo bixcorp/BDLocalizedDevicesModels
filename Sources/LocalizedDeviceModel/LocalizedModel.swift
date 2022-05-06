@@ -7,12 +7,14 @@
 //
 
 #if !os(macOS)
+import Foundation
+
 var deviceTypeIdentifier: String {
     // Check if device is a simulator to get the right machine identifier.
     if let machine = ProcessInfo().environment["SIMULATOR_MODEL_IDENTIFIER"] {
         return machine
     } else {
-        var size: Int = 0
+        var size = 0
         sysctlbyname("hw.machine", nil, &size, nil, 0)
         var machine = [CChar](repeating: 0, count: size)
         sysctlbyname("hw.machine", &machine, &size, nil, 0)
@@ -21,7 +23,12 @@ var deviceTypeIdentifier: String {
     }
 }
 
-var productName: String {
+// MARK: -
+
+/// The product name of the device.
+///
+/// If no English localization is found, the product identifier will be returned.
+public var productName: String {
     // Retrieve english bundle.
     guard let englishPath = Bundle.module.path(forResource: "en", ofType: "lproj") else {
         return deviceTypeIdentifier // Fallback on device identifier.
@@ -35,7 +42,10 @@ var productName: String {
                              bundle: englishBundle, value: deviceTypeIdentifier, comment: "")
 }
 
-var localizedProductName: String {
+/// The product name of the device as a localized string.
+///
+/// If no localization is found, the product identifier will be returned.
+public var localizedProductName: String {
     NSLocalizedString(deviceTypeIdentifier, tableName: "DeviceModel",
                       bundle: Bundle.module, value: deviceTypeIdentifier, comment: "")
 }
