@@ -6,39 +6,6 @@
 //  Copyright © 2018 Benoit Deldicque. All rights reserved.
 //
 
-#if os(watchOS)
-import WatchKit
-
-public extension WKInterfaceDevice {
-    /// The product name of the device.
-    @objc var productName: String {
-        LocalizedDeviceModel.productName
-    }
-
-    /// The product name of the device as a localized string.
-    @objc var localizedProductName: String {
-        LocalizedDeviceModel.localizedProductName
-    }
-}
-#endif
-
-#if os(tvOS) || os(iOS)
-import UIKit
-
-public extension UIDevice {
-    /// The product name of the device.
-    @objc var productName: String {
-        LocalizedDeviceModel.productName
-    }
-
-    /// The product name of the device as a localized string.
-    @objc var localizedProductName: String {
-        LocalizedDeviceModel.localizedProductName
-    }
-}
-
-#endif
-
 #if !os(macOS)
 var deviceTypeIdentifier: String {
     // Check if device is a simulator to get the right machine identifier.
