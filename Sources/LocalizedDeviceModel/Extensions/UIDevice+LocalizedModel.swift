@@ -9,7 +9,7 @@
 #if os(tvOS) || os(iOS)
 import UIKit
 
-extension UIDevice {
+public extension UIDevice {
     /// The product name of the device.
     @objc var productName: String {
         LocalizedDeviceModel.productName
