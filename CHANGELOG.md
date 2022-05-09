@@ -1,3 +1,9 @@
+## [3.0.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.0.1)
+Released on 2022-05-09.
+
+#### Added
+- Make UIDevice extension public.
+
 ## [3.0.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.0.0)
 Released on 2022-05-07.
 
