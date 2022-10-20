@@ -143,8 +143,18 @@
 "iPad13,11" = "iPad Pro da 12,9 pollici (5a generazione)";
 "iPad13,16" = "iPad Air (5a generazione)";
 "iPad13,17" = "iPad Air (5a generazione)";
+"iPad13,18" = "iPad (10a generazione)";
+"iPad13,19" = "iPad (10a generazione)";
 "iPad14,1" = "iPad mini (6a generazione)";
 "iPad14,2" = "iPad mini (6a generazione)";
+"iPad14,3-A" = "iPad Pro 11-inch (4a generazione)";
+"iPad14,3-B" = "iPad Pro 11-inch (4a generazione)";
+"iPad14,4-A" = "iPad Pro 11-inch (4a generazione)";
+"iPad14,4-B" = "iPad Pro 11-inch (4a generazione)";
+"iPad14,5-A" = "iPad Pro 12.9-inch (6a generazione)";
+"iPad14,5-B" = "iPad Pro 12.9-inch (6a generazione)";
+"iPad14,6-A" = "iPad Pro 12.9-inch (6a generazione)";
+"iPad14,6-B" = "iPad Pro 12.9-inch (6a generazione)";
 
 
 // MARK: Apple TV models

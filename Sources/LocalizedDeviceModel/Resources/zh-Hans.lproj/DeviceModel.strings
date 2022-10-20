@@ -143,8 +143,18 @@
 "iPad13,11" = "iPad Pro (12.9 英寸，第 5 代）";
 "iPad13,16" = "iPad Air (第 5 代）";
 "iPad13,17" = "iPad Air (第 5 代）";
+"iPad13,18" = "iPad (第 10 代)";
+"iPad13,19" = "iPad (第 10 代)";
 "iPad14,1" = "iPad mini（第 6 代）";
 "iPad14,2" = "iPad mini（第 6 代）";
+"iPad14,3-A" = "iPad Pro 11-inch (第 4 代)";
+"iPad14,3-B" = "iPad Pro 11-inch (第 4 代)";
+"iPad14,4-A" = "iPad Pro 11-inch (第 4 代)";
+"iPad14,4-B" = "iPad Pro 11-inch (第 4 代)";
+"iPad14,5-A" = "iPad Pro 12.9-inch (第 6 代)";
+"iPad14,5-B" = "iPad Pro 12.9-inch (第 6 代)";
+"iPad14,6-A" = "iPad Pro 12.9-inch (第 6 代)";
+"iPad14,6-B" = "iPad Pro 12.9-inch (第 6 代)";
 
 
 // MARK: Apple TV models
