@@ -1,3 +1,13 @@
+## [3.2.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.2.0)
+Released on 2022-10-20.
+
+#### Added
+- New Apple TV.
+- New iPad models.
+
+#### Fixed
+- Fix iPhone 14 Pro Max device identifier.
+
 ## [3.1.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.1.0)
 Released on 2022-09-10.
 
