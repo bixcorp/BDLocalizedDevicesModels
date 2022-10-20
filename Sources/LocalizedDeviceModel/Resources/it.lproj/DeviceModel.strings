@@ -155,6 +155,7 @@
 "AppleTV5,3" = "Apple TV HD";
 "AppleTV6,2" = "Apple TV 4K";
 "AppleTV11,1" = "Apple TV 4K (2a generazione)";
+"AppleTV14,1" = "Apple TV 4K (3a generazione)";
 
 
 // MARK: Apple Watch models
