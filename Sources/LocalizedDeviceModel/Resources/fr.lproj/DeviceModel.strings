@@ -212,6 +212,11 @@
 "Watch6,16" = "Apple Watch Series 8";
 "Watch6,17" = "Apple Watch Series 8";
 "Watch6,18" = "Apple Watch Ultra";
+"Watch7,1" = "Apple Watch Series 9";
+"Watch7,2" = "Apple Watch Series 9";
+"Watch7,3" = "Apple Watch Series 9";
+"Watch7,4" = "Apple Watch Series 9";
+"Watch7,5" = "Apple Watch Ultra 2";
 
 
 // MARK: Developer models
