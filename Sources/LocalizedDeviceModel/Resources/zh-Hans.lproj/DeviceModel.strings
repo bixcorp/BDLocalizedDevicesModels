@@ -151,26 +151,18 @@
 "iPad13,19" = "iPad (第 10 代)";
 "iPad14,1" = "iPad mini（第 6 代）";
 "iPad14,2" = "iPad mini（第 6 代）";
-"iPad14,3-A" = "iPad Pro 11 英寸 (第 4 代)";
-"iPad14,3-B" = "iPad Pro 11 英寸 (第 4 代)";
-"iPad14,4-A" = "iPad Pro 11 英寸 (第 4 代)";
-"iPad14,4-B" = "iPad Pro 11 英寸 (第 4 代)";
-"iPad14,5-A" = "iPad Pro 12.9 英寸 (第 6 代)";
-"iPad14,5-B" = "iPad Pro 12.9 英寸 (第 6 代)";
-"iPad14,6-A" = "iPad Pro 12.9 英寸 (第 6 代)";
-"iPad14,6-B" = "iPad Pro 12.9 英寸 (第 6 代)";
+"iPad14,3" = "iPad Pro 11 英寸 (第 4 代)";
+"iPad14,4" = "iPad Pro 11 英寸 (第 4 代)";
+"iPad14,5" = "iPad Pro 12.9 英寸 (第 6 代)";
+"iPad14,6" = "iPad Pro 12.9 英寸 (第 6 代)";
 "iPad14,8" = "iPad Air 11 英寸 (M2)";
 "iPad14,9" = "iPad Air 11 英寸 (M2)";
-"iPad14,11" = "iPad Air 13 英寸 (M2)";
 "iPad14,10" = "iPad Air 13 英寸 (M2)";
-"iPad16,3-A" = "iPad Pro 11 英寸 (M4)";
-"iPad16,3-B" = "iPad Pro 11 英寸 (M4)";
-"iPad16,4-A" = "iPad Pro 11 英寸 (M4)";
-"iPad16,4-B" = "iPad Pro 11 英寸 (M4)";
-"iPad16,5-A" = "iPad Pro 13 英寸 (M4)";
-"iPad16,5-B" = "iPad Pro 13 英寸 (M4)";
-"iPad16,6-A" = "iPad Pro 13 英寸 (M4)";
-"iPad16,6-B" = "iPad Pro 13 英寸 (M4)";
+"iPad14,11" = "iPad Air 13 英寸 (M2)";
+"iPad16,3" = "iPad Pro 11 英寸 (M4)";
+"iPad16,4" = "iPad Pro 11 英寸 (M4)";
+"iPad16,5" = "iPad Pro 13 英寸 (M4)";
+"iPad16,6" = "iPad Pro 13 英寸 (M4)";
 
 
 // MARK: Apple TV models
