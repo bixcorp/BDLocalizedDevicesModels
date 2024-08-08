@@ -1,3 +1,9 @@
+## [3.4.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.4.1)
+Released on 2024-08-08.
+
+#### Fixed
+- Fix unexpected device type identifier.
+
 ## [3.4.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.4.0)
 Released on 2024-05-11.
 
