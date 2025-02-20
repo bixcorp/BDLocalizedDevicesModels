@@ -1,3 +1,9 @@
+## [3.7.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.7.0)
+Released on 2025-02-20.
+
+#### Added
+- New iPhone model.
+
 ## [3.6.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.6.0)
 Released on 2024-10-24.
 
