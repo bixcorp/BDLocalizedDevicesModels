@@ -1,3 +1,10 @@
+## [3.9.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.5.0)
+Released on 2025-09-14.
+
+#### Added
+- New iPhone 17 models.
+- New Apple Watch models.
+
 ## [3.8.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.8.0)
 Released on 2025-03-06.
 
