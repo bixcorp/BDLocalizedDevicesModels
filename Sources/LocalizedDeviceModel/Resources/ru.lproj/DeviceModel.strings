@@ -224,10 +224,10 @@
 "Watch6,7" = "Apple Watch Series 7";
 "Watch6,8" = "Apple Watch Series 7";
 "Watch6,9" = "Apple Watch Series 7";
-"Watch6,10" = "Apple Watch SE";
-"Watch6,11" = "Apple Watch SE";
-"Watch6,12" = "Apple Watch SE";
-"Watch6,13" = "Apple Watch SE";
+"Watch6,10" = "Apple Watch SE (2‑го поколения)";
+"Watch6,11" = "Apple Watch SE (2‑го поколения)";
+"Watch6,12" = "Apple Watch SE (2‑го поколения)";
+"Watch6,13" = "Apple Watch SE (2‑го поколения)";
 "Watch6,14" = "Apple Watch Series 8";
 "Watch6,15" = "Apple Watch Series 8";
 "Watch6,16" = "Apple Watch Series 8";
@@ -242,6 +242,15 @@
 "Watch7,9" = "Apple Watch Series 10";
 "Watch7,10" = "Apple Watch Series 10";
 "Watch7,11" = "Apple Watch Series 10";
+"Watch7,12" = "Apple Watch Ultra 3";
+"Watch7,13" = "Apple Watch SE 3";
+"Watch7,14" = "Apple Watch SE 3";
+"Watch7,15" = "Apple Watch SE 3";
+"Watch7,16" = "Apple Watch SE 3";
+"Watch7,17" = "Apple Watch Series 11";
+"Watch7,18" = "Apple Watch Series 11";
+"Watch7,19" = "Apple Watch Series 11";
+"Watch7,20" = "Apple Watch Series 11";
 
 
 // MARK: Developer models
