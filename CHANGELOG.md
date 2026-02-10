@@ -1,3 +1,9 @@
+## [3.9.1](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.9.1)
+Released on 2026-02-10.
+
+#### Added
+- New iPad models.
+
 ## [3.9.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.5.0)
 Released on 2025-09-14.
 
