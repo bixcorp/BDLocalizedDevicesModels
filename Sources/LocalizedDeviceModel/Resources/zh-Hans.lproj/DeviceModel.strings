@@ -70,6 +70,10 @@
 "iPhone18,3" = "iPhone 17";
 "iPhone18,4" = "iPhone 17 Air";
 "iPhone18,5" = "iPhone 17e";
+"iPhone19,2" = "iPhone 18 Pro";
+"iPhone19,3" = "iPhone 18 Pro Max";
+"iPhone19,4" = "iPhone Duo";
+"iPhone19,7" = "iPhone 18 Pro Max";
 
 
 // MARK: iPod touch models
