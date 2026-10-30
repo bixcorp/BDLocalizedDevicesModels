@@ -1,4 +1,10 @@
-[3.11.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.11.0)
+## [3.12.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.12.0)
+Released on 2026-10-30.
+
+#### Added
+- New iPad mini models.
+
+## [3.11.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.11.0)
 Released on 2026-09-18.
 
 #### Added
