@@ -3,6 +3,7 @@ Released on 2026-10-30.
 
 #### Added
 - New iPad mini models.
+- New Apple TV model.
 
 ## [3.11.0](https://github.com/bixcorp/BDLocalizedDevicesModels/releases/tag/3.11.0)
 Released on 2026-09-18.
